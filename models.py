@@ -40,8 +40,8 @@ messages=[
 client = Groq(api_key=st.secrets["api_key"])
 main_model='llama3-70b-8192'
 
-@retry(stop_never,wait_exponential(2))  
-def generic_response(user_prompt,messages=messages):
+@retry(stop_never,wait_exponential(5))
+def generic_response(user_prompt):
     
     if len(messages)>10:
         messages=clean_messages(messages,3)
