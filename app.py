@@ -25,7 +25,7 @@ class GenRobo:
             pass
 
     def setup_app_interface(self):
-        st.title("ApplAiGuide")
+        st.title("Neura")
         self.display_chat_history()
         self.accept_user_input()
 
@@ -84,7 +84,7 @@ class GenRobo:
         if "messages" not in st.session_state:
             st.session_state.messages = []
             # Add greeting message to chat history
-            first_message = "ApplAiGuide: Good Morning. I am ApplAiGuide, a Smart Assistant for ApplAi's Student Community. How can I assist you today? I can tell you everything about our community and project idea!"
+            first_message = "ApplAiGuide: Good Morning. I am Neura, a Smart Assistant for ApplAi's Student Community. How can I assist you today? I can tell you everything about our community, our board members, and our departments. I can also help you with your queries about our projects and events."
             st.session_state.messages.append({"role": "assistant", "content": first_message})
 
     # def stream_ans(self,response):
