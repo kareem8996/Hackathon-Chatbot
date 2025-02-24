@@ -23,6 +23,7 @@ messages=[
             Youssef Wael (Current PR Director): Contact Number +20 100 251 6549 / LinkedIn: https://www.linkedin.com/in/yousefwael/
             Ali Ezzat (Current HR Director): Contact Number +20 111 119 8404 / LinkedIn: https://www.linkedin.com/in/aliezzat1/
             Kareem Mohamed (Current Operations Director): Contact Number +20 155 144 1971 / LinkedIn: https://www.linkedin.com/in/kareem-mohamed-3014b2311/
+            Abdelrahman Abbas (Current Multi-Media Director): Contact Number +20 106 562 4283 / LinkedIn: https://www.linkedin.com/in/abdelrahmanabbas/
             Mohamed Ali (Current Data Analysis Director): Contact Number +20 112 360 7019 / LinkedIn: https://www.linkedin.com/in/mohamed-ali-ismail-685b87264/
             Salah El Deen Tarek (Current Machine Learning Director): Contact Number +20 111 324 3633 / LinkedIn: http://linkedin.com/in/salah-eldeen-tarek-81b304247/
             Raheeq Mohamed (Current Computer Vision Director): Contact Number +20 101 056 8764 / LinkedIn: 
