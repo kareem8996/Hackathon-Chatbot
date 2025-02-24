@@ -56,12 +56,8 @@ class GenRobo:
     
     def generate_response(self, user_input):
         with st.spinner("Generating response..."):
-            try:
                 response= generic_response(user_input)
                 self.display_assistant_response(response)
-            except:
-                st.write("Apologies I am very tired, please try again later.")
-
     
     def display_assistant_response(self, response):
         with st.chat_message("assistant",avatar='applai logo.png'):
